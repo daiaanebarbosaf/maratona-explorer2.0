@@ -4,6 +4,8 @@ Consegui criar um site como o linktree, onde consigo colocar vários links em um
 
 Aprendi tudo isso em uma semana guiada por um Educator da #Rocketseat o Mayk Brito.
 
+[Clique aqui para acessar o Layout pronto](https://daiaanebarbosaf.github.io/rocketlinks/)
+
 ## Tecnologias
 
 -HTML
