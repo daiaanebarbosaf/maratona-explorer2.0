@@ -7,7 +7,9 @@ Aprendi tudo isso em uma semana guiada por um Educator da #Rocketseat o Mayk Bri
 ## Tecnologias
 
 -HTML
+
 -CSS
+
 -GitHub
 
 ## Contato 
